@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santosh_portifolio/static/css/main.f855e6bc.css",
+    "main.js": "/santosh_portifolio/static/js/main.b4bbb0be.js",
+    "static/js/453.4c6eb6ca.chunk.js": "/santosh_portifolio/static/js/453.4c6eb6ca.chunk.js",
+    "index.html": "/santosh_portifolio/index.html",
+    "main.f855e6bc.css.map": "/santosh_portifolio/static/css/main.f855e6bc.css.map",
+    "main.b4bbb0be.js.map": "/santosh_portifolio/static/js/main.b4bbb0be.js.map",
+    "453.4c6eb6ca.chunk.js.map": "/santosh_portifolio/static/js/453.4c6eb6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b4bbb0be.js"
+  ]
+}
