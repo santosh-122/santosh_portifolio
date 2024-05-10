@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Firsthalf from './components/landingPage/Firsthalf';
 import Aboutme from './components/landingPage/Aboutme';

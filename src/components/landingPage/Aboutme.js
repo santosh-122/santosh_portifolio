@@ -2,7 +2,6 @@ import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import { FaYoutube,FaFacebookSquare,FaInstagram } from 'react-icons/fa';
-import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
 import { CiLinkedin } from "react-icons/ci";
 import { Aboutmetext } from '../../utils/constants';
 function Aboutme() {

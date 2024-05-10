@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import { Link,animateScroll as scroll, scrollSpy } from 'react-scroll';
+import { Link } from 'react-scroll';
 
 function Header() {
   return (

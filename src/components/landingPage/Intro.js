@@ -1,7 +1,7 @@
 import { animated, useSpring } from 'react-spring';
 import { BsChevronDoubleRight, BsChevronDoubleLeft } from "react-icons/bs";
 import Button from 'react-bootstrap/Button';
-import { Link, Element, Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
+import { Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
 import { useEffect } from 'react';
 const MovingAeroplane = () => {
     const animationProps = useSpring({
