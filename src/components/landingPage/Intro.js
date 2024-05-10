@@ -52,19 +52,6 @@ function Intro() {
       Events.scrollEvent.remove('end');
     };
   }, []);
-
-    const backgroundImageUrlplane = '/aeroplane.gif';
-    const divStyle = {
-      backgroundImage: `url(${backgroundImageUrlplane})`,
-      backgroundSize: 'cover', // Set background size to 100% width and original height
-      backgroundrepeat: "no-repeat",
-      backgroundOrigin: "content-box",
-      height: '300px',
-      backgroundattachment: "fixed",
-      backgroundPosition: "center",
-      width: 'auto',
-      objectFit: 'cover' // Three times the current height (adjust as needed)
-    };
     const textStyle = {
       fontFamily: 'cursive , Bold'
     };

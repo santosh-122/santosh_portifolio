@@ -6,7 +6,7 @@ function Firsthalf() {
     return (
       <div style={{
         backgroundImage: `url(${backgroundImageUrl})`, backgroundattachment: "fixed",
-        backgroundPosition: "center", backgroundPosition: "center 30%"
+        backgroundPosition: "center 30%"
       }}>
         <Header />
         <ProfilePicture />
