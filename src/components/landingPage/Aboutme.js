@@ -34,7 +34,7 @@ function Aboutme() {
   
             </div>
           </Col>
-          <Col xs={8}>
+          <Col xs={12}>
             <div>
               <p style={{
                 fontSize: "28px", textAlign: "justify",
