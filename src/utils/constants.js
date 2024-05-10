@@ -1,6 +1,7 @@
-export const Profileurl = "images/_DSC07031.JPG"
+import profilepic from "../assets/images/san.jpg"
+export const Profileurl = {profilepic}
 
-export const BackgroundUrl =  "/images/headersbg.jpg"
+export const BackgroundUrl =  {profilepic}
 
 export const Aboutmetext = {
     FirstParagrapg : "Hello! I'm Santosh Kumar Karri, a 26-year-old Web Developer and YouTuber living in Bangalore, India. I am a software engineer and am currently employed with the fantastic team at TCS.",

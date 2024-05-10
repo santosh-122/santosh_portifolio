@@ -1,8 +1,8 @@
 import Header from "./Header";
 import ProfilePicture from "./ProfilePicture";
-import { BackgroundUrl } from "../../utils/constants";
+import profilepic from "../../assets/images/headersbg.jpg";
 function Firsthalf() {
-    const backgroundImageUrl = BackgroundUrl;
+    const backgroundImageUrl = profilepic;
     return (
       <div style={{
         backgroundImage: `url(${backgroundImageUrl})`, backgroundattachment: "fixed",

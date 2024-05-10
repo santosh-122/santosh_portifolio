@@ -1,6 +1,7 @@
 import { React, useState } from 'react';
 import { IoMdCloudDownload } from "react-icons/io";
 import Spinner from 'react-bootstrap/Spinner';
+import pdfdownload from "../../assets/images/resume.pdf"
 
 function DownloadPdf() {
     const [loader, setLoader] = useState(false);
@@ -14,7 +15,7 @@ function DownloadPdf() {
     };
 
     const handleDownload = () => {
-        const pdfUrl = '/pdf/resume.pdf'; // Update the URL with your PDF file path
+        const pdfUrl = pdfdownload; // Update the URL with your PDF file path
         const anchor = document.createElement('a');
         anchor.href = pdfUrl;
         anchor.download = 'santoshkumar_resume.pdf'; // Update the file name if needed
